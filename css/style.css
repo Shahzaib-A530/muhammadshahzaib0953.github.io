@@ -1,0 +1,339 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+ /* ==========================
+Cuda-1 page css start
+==========================  */
+
+.custom-header .navbar {
+    padding-top: 60px;
+}
+
+.custom-header {
+    background-color: #86509c;
+    /* height: 100px; */
+}
+
+.custom-header .navbar .nav-link {
+    color: white;
+    font-size: 25px;
+}
+
+.custom-header .collapse a {
+    padding: 15px !important;
+}
+
+.page_content {
+    background-color: #86509c;
+    text-align: center;
+}
+
+.page_content .page_heading h1 {
+    padding-top: 10%;
+    color: white;
+}
+
+.page_content .page_button a {
+    display: inline-block;
+    color: white;
+    border-bottom: 6px solid #ca6a3a;
+    border-radius: 5px;
+    padding: 10px 50px;
+    margin: 50px auto;
+    margin-bottom: 15%;
+    font-size: 30px;
+    background-color: #eb7d4a;
+}
+
+.page_content .page_button a:hover {
+    transition: 0.3s;
+    background-color: #ca6a3a;
+    border-bottom: 6px solid #eb7d4a;
+}
+
+
+ /* ==========================
+Cuda-1 page css end
+==========================  */
+
+ /* ==========================
+Cuda-2 page css start
+==========================  */
+.page_contant-2 {
+    background-color: #17c1a4;
+}
+
+.page_contant-2 .page_heading-2 {
+    color: white;
+    text-align: center;
+    /* margin-top: 20px; */
+}
+.page_contant-2 .page_heading-2 h1 {
+    padding-top: 70px;
+    font-size: 50px;
+}
+
+.page_contant-2 .page_heading-2 p {
+    font-size: 30px;
+}
+.row .coloum {
+    text-align: center;
+    color: #fff;
+    margin: 100px auto;
+}
+.row .coloum h2{
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+ /* ==========================
+Cuda-2 page css End
+==========================  */
+
+
+ /* ==========================
+Cuda-3 page css start
+==========================  */
+.page_contant-3{
+    background-color: #e7f2f8;
+}
+.page_contant-3 .page_heading-3 {
+   text-align: center;
+   padding-top: 50px; 
+}
+.circle_image-1{
+    border: 2px solid brown;
+    /* background-color: yellow; */
+    display: inline-block;
+    border-radius: 72px;
+    margin-top:  30px;
+}
+.circle_image-1 img{
+    margin: 5px;
+    border-radius: 50px;
+}
+.personalities{
+    text-align: center;
+    padding-bottom: 100px;
+}
+.personalities h6{
+    color: #63c6ea;
+}
+.personalities i{
+    font-size: 30px;
+    color: gray;
+    padding: 10px;
+}
+.personalities h4{
+    padding-top: 30px;
+}
+.personalities p{
+    padding-top: 20px;
+}
+ /* ==========================
+Cuda-3 page css end
+==========================  */
+ /* ==========================
+Cuda-5 page css start
+==========================  */
+.page_contant-5 {
+    background-color: #ffdc98;
+}
+
+.page_contant-5 .page_heading-5 {
+    text-align: center;
+    
+}
+.page_contant-5 .page_heading-5 h1 {
+    padding-top: 70px;
+}
+.nav_bar .nav-tabs{
+    /* margin-left: 400px; */
+    border: none;
+
+}
+.nav_bar .nav-link{
+    border: 1px solid black;
+    margin: 10px;
+}
+.row .web-pic p{
+padding: 20px;
+}
+.page_contant-5 .row{
+    margin-top: 70px;
+}
+.page_contant-5 .web_button a {
+    display: inline-block;
+    color: white;
+    border-bottom: 6px solid #1ba488;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 50px auto;
+    margin-bottom: 10%;
+    /* font-size: 30px; */
+    background-color: #17c1a4;
+}
+
+.page_contant-5 .web_button a:hover {
+    transition: 0.3s;
+    background-color: #1ba488;
+    border-bottom: 6px solid #17c1a4;
+}
+.button .cuda-5{
+    background-color: #eac783;
+    border: none;
+    margin: 10px;
+}
+.button .cuda-5:hover{
+    background-color: white;
+    color: black;
+}
+ /* ==========================
+Cuda-5 page css end
+==========================  */
+ /* ==========================
+Cuda-6 page css start
+==========================  */
+.page_contant-6 {
+    background-color: #d74681;
+}
+
+.page_contant-6 .page_heading-6 {
+    color: white;
+    text-align: center;
+    /* margin-top: 20px; */
+}
+.page_contant-6 .page_heading-6 h1 {
+    padding-top: 70px;
+    font-size: 50px;
+}
+
+.page_contant-6 .page_heading-6 p {
+    font-size: 30px;
+}
+.content-6 .image .image-6{
+    background-color: white;
+    display: inline-block;
+    border-radius: 72px;
+    padding: 5px;
+}
+.content-6 .image-6 {
+    border-radius: 50px;
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+}
+.content-6 .review{
+    padding: 20px;
+}
+.person_review h3{
+    color: #fff;
+}
+.person_review .post {
+    color: #f9dc92;
+}
+.page_contant-6 .row{
+    padding-bottom: 100px;
+}
+
+ /* ==========================
+Cuda-6 page css end
+==========================  */
+ /* ==========================
+Cuda-7 page css start
+==========================  */
+.page_contant-7{
+    background-color: #3c549a;
+}
+.page_contant-7 .page_heading-7 {
+   text-align: center;
+   padding-top: 50px; 
+}
+.page_contant-7 .page_heading-7 h1 {
+    color: white;
+}
+.page_contant-7 .page_heading-7 p{
+    color: white;
+}
+.form{
+    text-align: center;
+}
+.form .form_input {
+    display: inline-block;
+    width: 400px;
+    background-color: #273a72;
+    color: white;
+    border: none;
+    padding: 15px;
+}
+.form .textarea{
+    width: 810px;
+    background-color: #273a72;
+    color: white;
+    border: none;
+    height: 300px;
+}
+input::placeholder{
+    color: white !important;
+}
+textarea::placeholder{
+    color: white !important;
+}
+.page_contant-7 .form-button{
+    text-align: center;
+
+}
+.page_contant-7 .form-button a {
+    display: inline-block;
+    color: white;
+    border-bottom: 6px solid #289cc7;
+    border-radius: 5px;
+    padding: 20px 70px;
+    margin: 50px auto;
+    margin-bottom: 10%;
+    background-color: #30bae8;
+}
+
+.page_contant-7 .form-button a:hover {
+    transition: 0.3s;
+    background-color: #289cc7;
+    border-bottom: 6px solid #30bae8;
+}
+ /* ==========================
+Cuda-7 page css end
+==========================  */
+ /* ==========================
+Footer start
+==========================  */
+.footer {
+    background-color: #344b8e;
+}
+.footer ul li a{
+    display: inline-block;
+    padding: 20px;
+    color: white;
+    font-size: 30px;
+}
+.footer li{
+    display: inline-block;
+}
+.footer ul li a:hover{
+    transition: 0.3s;
+    background-color: #30b1dc;
+    color: white;
+}
+
+ /* ==========================
+Footer end
+==========================  */
